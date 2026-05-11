@@ -108,7 +108,9 @@ This application is ideal for teams, communities, and businesses that require ef
 ---
 
 ## 📷 Screenshots
-_Add project screenshots here_
+   <img width="1920" height="1020" alt="Screenshot 2026-05-11 170110" src="https://github.com/user-attachments/assets/655a39aa-2d1f-4772-8f48-aa1425bc713a" />
+
+   <img width="1920" height="1020" alt="Screenshot 2026-05-11 170133" src="https://github.com/user-attachments/assets/82f31e87-4cee-4edd-926f-3bc041ac3003" />
 
 ---
 
@@ -129,12 +131,6 @@ npm start
 ```
 
 ---
-
-## Output
-<img width="1920" height="1020" alt="Screenshot 2026-05-11 170110" src="https://github.com/user-attachments/assets/655a39aa-2d1f-4772-8f48-aa1425bc713a" />
-
-<img width="1920" height="1020" alt="Screenshot 2026-05-11 170133" src="https://github.com/user-attachments/assets/82f31e87-4cee-4edd-926f-3bc041ac3003" />
-
 
 ## Author
    Pavithra Nagineni
