@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+jspm_packages/
+web_modules/
+
+# Environment configurations
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+# React production builds
+/ai-job-board/frontend/build/
+
+# Python Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python Caches and Pytest
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints
+
+# MLflow run tracking files
+/Research_agent/mlruns/
+/Research_agent/mlartifacts/
+
+# System / IDE Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
