@@ -1,9 +1,5 @@
 {
   "version": 2,
-  "buildCommand": "npm install && npm run build",
-  "outputDirectory": "ai-job-board/frontend/build",
-  "installCommand": "cd ai-job-board/frontend && npm install",
-  "framework": "create-react-app",
   "builds": [
     {
       "src": "ai-job-board/frontend/package.json",
@@ -14,10 +10,6 @@
     }
   ],
   "routes": [
-    {
-      "src": "/static/(.*)",
-      "dest": "/ai-job-board/frontend/build/static/$1"
-    },
     {
       "src": "/(.*)",
       "dest": "/ai-job-board/frontend/build/index.html"
