@@ -100,3 +100,9 @@ OPENAI_API_KEY=sk-...
 7. **/dashboard** — Employer: manage listings, view applicants with AI scores
 8. **/applications** — Candidate: track all applications + AI match scores
 9. **/profile** — Profile editor + resume text for AI
+
+## Live Demo
+https://ai-job-board-rosy.vercel.app/
+
+## Author 
+  Pavithra Nagineni
